@@ -1,0 +1,10 @@
+{
+  "baseconnector": {
+    "dbname": "main",
+    "dbuser": "ya",
+    "dbpassword": "111"
+  },
+  "logcon": {
+    "loglvl": "1"
+  }
+}
